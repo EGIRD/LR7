@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTask5.a CMakeFiles/Task5.dir/Task_5.cpp.o
+/usr/bin/ranlib libTask5.a
